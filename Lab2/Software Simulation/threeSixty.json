@@ -1,0 +1,80 @@
+{
+  "version": "3.96.33815.0",
+  "course_id": "6E3D19ClFTN",
+  "title": "Organizing Notes in OneNote",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Welcome"
+    },
+    {
+      "title": "Try Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5Xiw5m6yuQW",
+      "title": "Organizing Notes in OneNote",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6cmVGqE9rzg",
+      "title": "Adding a new section",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6eknftV9RNU",
+      "title": "Rename a new section I",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5a5NffNHWAA",
+      "title": "Rename a new section II",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6ZhuhclJVjd",
+      "title": "Rename a existing page",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6QVib4UmmNd",
+      "title": "Adding a new page",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "5kiH5EaCLif",
+      "title": "Rename the new page",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "5mxaf9GSYts",
+      "title": "Deleting a page I",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "6kmjYx3LboU",
+      "title": "Deleting a page II",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "6DDbvmxV8MF",
+      "title": "Deleting a page III",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "5lTBCf1PVy4",
+      "title": "Complete",
+      "scene_index": "2.10"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
