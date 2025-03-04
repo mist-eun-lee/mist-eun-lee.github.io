@@ -1,0 +1,87 @@
+{
+  "version": "3.97.34031.0",
+  "course_id": "5io0yeaawuk",
+  "title": "Untitled1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5YLhGv5TuJY",
+      "title": "Welcome",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5aozGzRZC2p",
+      "title": "Learning outcomes",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "66X8l9WHQkJ",
+      "title": "Personalization Principle",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5ZQB1qgNdVY",
+      "title": "Why does Personalization work",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "60yBqYu70hi",
+      "title": "Cognitive load theory",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5iiAGxvOWyK",
+      "title": "Corporate training example",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5ZaryEAAem1",
+      "title": "Let's check your understanding",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6JEvvYNttVZ",
+      "title": "Quiz 1",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6GM9w3cu0ud",
+      "title": "Quiz 2",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "5kmP47w37Gx",
+      "title": "Quiz 3",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "6n7JBcAo3XW",
+      "title": "Quiz 4",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "5YiqZ5jcXpy",
+      "title": "Quiz results",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "5XHDbe014ig",
+      "title": "Sources",
+      "scene_index": "1.13"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
