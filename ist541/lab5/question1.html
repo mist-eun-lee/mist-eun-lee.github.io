@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>question1</title>
+<link href="css/koala.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+<body>
+
+<script>
+ function showAnswer() {
+	   $("#koala").hide();
+	   $("#koala_eating").show();
+	   $("#answer").html("<h2 style='color:#2F5D50;'>They are the Little Blue Penguin!</h2>");
+	}
+
+ function hideAnswer() {
+	   $("#koala").show();
+	   $("#koala_eating").hide();
+	   $("#answer").html("");
+	}
+</script>
+	
+	<div id="wrapper_question1">
+		
+ <h1>What is the smallest penguin species in the world?</h1>
+		
+ <h3 id="hint">Hint: Hover over the image below to find out!</h3>
+
+  <img onmouseenter="showAnswer()" id="koala" src="img/penguin_smallest.png" width="300"   />
+  <img onmouseleave="hideAnswer()" id="koala_eating" src="img/penguin_littleblue.jpeg" width="300"   />
+
+      <div id="answer"></div>  <!-- This is a placeholder to display the answer-->
+ 
+</div> <!-- closing  “wrapper” -->
+	
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

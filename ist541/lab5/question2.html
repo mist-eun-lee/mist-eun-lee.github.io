@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>question2</title>
+<link href="css/koala.css" rel="stylesheet" type="text/css">
+<script src=" https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+<body>
+
+   <script>
+ 	   function rightAnswer() {
+         $("#feedback").html('<h2 style="color:#2F5D50;"><img src="img/icon_correct.png" width="60" height="60" style="vertical-align:middle;"> Correct. Adult Little Blue Penguins are the smallest penguin species, standing around 10-12" tall!</h2>'); $("#koala_eating").show();
+	    }
+	   
+  		function wrongAnswer1(){
+		$("#feedback").html('<h2 style="color:#8F3B3B;"><img src="img/icon_wrong.png" width="60" height="60" style="vertical-align:middle;"> Little Blue Penguins are a bit taller than that.</h2>');
+		$("#koala_eating").hide();
+		}
+
+	   function wrongAnswer2(){
+		$("#feedback").html('<h2 style="color:#8F3B3B;"><img src="img/icon_wrong.png" width="60" height="60" style="vertical-align:middle;"> Little Blue Penguins are a bit smaller than that.</h2>');
+		$("#koala_eating").hide();
+  		}
+
+  		function wrongAnswer3(){
+		$("#feedback").html('<h2 style="color:#8F3B3B;"><img src="img/icon_wrong.png" width="60" height="60" style="vertical-align:middle;"> Little Blue Penguins are much smaller than that.</h2>');
+		$("#koala_eating").hide();
+  		}
+    </script>
+
+    <div id="wrapper_question2">
+<h1>What is the average height of<br>an adult Little Blue Penguin?</h1>
+<h3>Click on one of the following choices</h3>
+		
+<h2 class="choices" onclick="wrongAnswer1()">8 inches</h2>
+<h2 class="choices" onclick="rightAnswer()">12 inches</h2>
+<h2 class="choices" onclick="wrongAnswer2()">24 inches</h2>
+<h2 class="choices" onclick="wrongAnswer3()">35 inches</h2>
+
+<div id="feedback"></div>
+<img id="koala_eating" src="img/penguin_littleblue.jpeg" />
+</div>
+
+</body>
+</html>
