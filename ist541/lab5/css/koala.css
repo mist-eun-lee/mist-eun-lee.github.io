@@ -8,7 +8,7 @@ margin: 0 auto;
 text-align: center;
 background-color: #E9F5F2;  
 color: #2E3830;
-font-family: "Open Sans", sans-serif;
+font-family: "Open Sans";
 }
 
 
@@ -61,26 +61,6 @@ margin: 10px 0;
 margin-top: 16px;
 padding: 10px;
 font-size: 18px;
-}
-
-
-#feedback.success {
-color: #3E6B52;               /* Correct answer font color */
-background-color: #EAF4EF;     
-border-radius: 10px;
-display: inline-block;
-padding: 10px 14px;
-border: 1px solid #CFE4D8;
-}
-
-
-#feedback.error {
-color: #8F3B3B;               /* Wrong answerw font color */
-background-color: #F9ECEC;     
-border-radius: 10px;
-display: inline-block;
-padding: 10px 14px;
-border: 1px solid #ECD1D1;
 }
 
 
