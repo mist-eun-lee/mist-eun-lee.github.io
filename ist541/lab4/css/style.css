@@ -1,0 +1,123 @@
+@charset "utf-8";
+
+body {
+background-color: #1e1e1e;     
+background-image: url("../img/bg.jpg");
+margin: 0;
+color: #9AC9FF;               
+font-family: Verdana, sans-serif;
+}
+
+
+.wrapper {
+max-width: 950px;
+height: 800px;
+display: flex;           
+text-align: left;
+margin: 40px auto;
+background: #2a2a2a;     
+border-radius: 20px;
+box-shadow: 0 4px 15px rgba(0, 0, 0, 0.8);
+overflow: hidden;
+}
+
+
+nav {
+width: 175px;
+background: #242424;        
+border-right: 1px solid #3a3a3a;
+padding: 20px;
+}
+
+nav h1 {
+font-size: 19px;
+color: #E2DFDF;              
+margin: 0 0 35px 0;
+}
+
+nav a {
+display: block;
+padding: 10px 10px;
+text-decoration: none;
+font-size: 17px;
+color: #dcdcdc;
+border-radius: 10px;
+}
+
+
+nav a:hover {
+color: #9AC9FF;                    
+text-decoration: none;
+background-color: #2B3848;   
+color: #97B3D3;             
+}
+
+
+nav a.active {
+background: #9AC9FF; 
+color: #1e1e1e;      
+font-weight: bold;
+}
+
+
+main {
+padding: 30px;
+background: #2a2a2a;
+}
+
+
+h1, h2 {
+text-align: left;
+color: #9AC9FF;              
+margin-top: 0;
+}
+
+
+audio {
+width: 240px;
+}
+
+
+
+table.audiotable {
+width: 100%;
+border: 2px solid #3B89CB;   
+border-radius: 20px;
+margin-top: 10px;
+margin-bottom: 30px;
+border-collapse: separate;
+overflow: hidden;
+background: #1f1f1f;
+}
+
+
+table.videotable {
+width: 100%;
+border: 1px solid #9AC9FF;   
+border-radius: 12px;
+margin-top: 30px;
+border-collapse: separate;
+overflow: hidden;
+background: #1f1f1f;
+}
+
+
+table.sourcetable {
+width: 640px;
+border: 5px solid #314D6D;  
+border-radius: 20px;
+margin-top: 30px;
+border-collapse: separate;
+overflow: hidden;
+background: #1f1f1f;
+}
+
+
+td {
+background-color: #;
+padding: 10px;
+border-radius: 6px;
+}
+
+
+

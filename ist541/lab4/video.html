@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Lab4</title>
+<link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+  <div class="wrapper">
+    <nav>
+		<br />
+      <h1>IST 541 Lab4: Video</h1>
+       <a href="index.html" target="_self">Audio</a>
+       <a class="active" href="video.html" target="_self">Video</a>
+       <a href="source.html" target="_self">Source</a>
+    </nav>
+ <main>
+	 <h2>How to say hello and thank you in Korean</h2> 
+
+      <table class="videotable">
+        <tr>
+          <td>
+	<video controls width="260" height="470">
+<source src="video/hello.mp4" type="video/mp4" />
+<track id="entrack" label="English subtitles" kind="captions" src="video/captions.vtt" srclang="en" default>
+HTML5 Video not supported</video>
+			</td>
+			<td width="65">&nbsp;</td>
+			 <td>
+	<video controls width="260" height="470">
+<source src="video/thankyou.mp4" type="video/mp4" />
+<track id="entrack" label="English subtitles" kind="captions" src="video/captions.vtt" srclang="en" default>
+HTML5 Video not supported</video>
+			</td>
+          </tr>
+      </table>
+  </main>
+  </div>
+</body>
+</html>
