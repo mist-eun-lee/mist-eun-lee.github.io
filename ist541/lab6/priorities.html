@@ -1,0 +1,156 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Manage priorities</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="js/script.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<div class="wrapper">
+  <header><h1>4 Steps to Reduce Stress at Work</h1></header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="signs.html">See the signs</a>
+    <a href="breaks.html">Take breaks</a>
+    <a class="active" href="priorities.html">Manage priorities</a>
+    <a href="boundaries.html">Set boundaries</a>
+    <a href="summary.html">Summary</a>
+  </nav>
+  <main>
+
+<h2>Managing Priorities</h2>
+  <table class="intro-table">
+ 	 <tr>
+     	<td class="intro-text">
+Managing stress effectively requires more than short-term relief. It involves shaping how we prioritize and act on daily tasks. The Eisenhower Matrix, a 2×2 framework of four priority zones, helps us distinguish between what is urgent and what is truly important. 
+    </td>
+    <td class="intro-image"><img src="img/eisenhower_matrix.png" width="250"></td>
+  </tr>
+</table>
+<br />	
+
+<!-- Toggle Eisenhower Matrix -->
+		  <button class="btn" onclick="toggleMatrix()">Click to Show/Hide the Matrix</button>
+	  
+<div id="matrix_panel" style="display:none; margin-top:12px;">
+  <table class="simple-table">
+    <tr>
+      <td width="480">
+        <strong>Do Now</strong><br>
+        Urgent + Important<br>
+        Critical deadlines, blockers, Tasks that need to be completed right away. 
+      </td>
+      <td width="480">
+        <strong>Schedule</strong><br>
+        Not Urgent + Important<br>
+       Planning, deep work, learning, long-term goals, and preventive measures.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Delegate</strong><br>
+        Urgent + Not Important<br>
+        Status pings, quick admin. Interruptions, meetings, and tasks that can be delegated. They don’t really help you achieve your goals, but they do demand attention.
+      </td>
+      <td>
+        <strong>Delete/Defer</strong><br>
+        Not Urgent + Not Important<br>
+       Low-value busywork. Time wasting activities, distractions and tasks that don’t advance your well-being or achievement.
+      </td>
+    </tr>
+  </table>
+</div>
+  
+	  <p>&nbsp;</p>	  
+	  <p>&nbsp;</p>	
+    <h2>Urgent vs. Important</h2>
+
+  <table class="intro-table">
+ 	 <tr>
+     	<td class="intro-text">
+You’ve reviewed the matrix. Now let’s see how well you can recognize task priorities with a short mini-quiz below.
+    </td>
+  </tr>
+</table>
+<br />
+	  
+
+<!-- Toggle Mini-Quiz -->
+    <div class="section">
+      <button class="btn"  id="toggle-urgent-important">Click to Show/Hide Mini-Quiz</button>
+      <div id="ui-explain" style="display:none; margin-top:12px;">
+		<br />
+		  
+<!-- Quiz #1 --> 
+<h2>Quiz 1. Which quadrant does this task involve?<br />"Plan next month’s learning goals."</h2>
+<table class="simple-table">
+  <tr>
+    <td>
+      <h2 class="choices" onclick="wrongAnswer1a()">A. Do (Urgent + Important)</h2>
+      <h2 class="choices" onclick="rightAnswer1()">B. Schedule (Not Urgent + Important)</h2>
+      <h2 class="choices" onclick="wrongAnswer1b()">C. Delegate (Urgent + Not Important)</h2>
+      <h2 class="choices" onclick="wrongAnswer1c()">D. Delete/Defer (Not Urgent + Not Important)</h2>
+      <div id="feedback1"></div>
+    </td>
+  </tr>
+</table>  
+ 
+<!-- Quiz #2 --> 
+<p>&nbsp;</p>	
+<p>&nbsp;</p>
+<h2>Quiz 2. Which quadrant does this task involve?<br />"Respond to a system outage affecting all active users."</h2>
+<table class="simple-table">
+  <tr>
+    <td>
+      <h2 class="choices" onclick="rightAnswer2()">A. Do (Urgent + Important)</h2>
+      <h2 class="choices" onclick="wrongAnswer2a()">B. Schedule (Not Urgent + Important)</h2>
+      <h2 class="choices" onclick="wrongAnswer2b()">C. Delegate (Urgent + Not Important)</h2>
+      <h2 class="choices" onclick="wrongAnswer2c()">D. Delete/Defer (Not Urgent + Not Important)</h2>
+      <div id="feedback2"></div>
+    </td>
+  </tr>
+</table>  
+		  
+<!-- Quiz #3 -->
+<p>&nbsp;</p>	
+<p>&nbsp;</p>
+<h2>Quiz 3. Which task should you do first?</h2>
+<table class="simple-table">
+  <tr>
+    <td>
+      <h2 class="choices" onclick="wrongAnswer3a()">A. Reply to non-urgent emails</h2>
+      <h2 class="choices" onclick="rightAnswer3()">B. Fix a client issue blocking today’s delivery</h2>
+      <h2 class="choices" onclick="wrongAnswer3b()">C. Plan next month’s learning goals</h2>
+      <h2 class="choices" onclick="wrongAnswer3c()">D. Browse optional internal newsletters</h2>
+      <div id="feedback3"></div>
+    </td>
+  </tr>
+</table>
+  
+<!-- Quiz #4 --> 
+<p>&nbsp;</p>	
+<p>&nbsp;</p>  
+<h2>Quiz 4. Which task should you do first?</h2>
+<table class="simple-table">
+  <tr>
+    <td>
+      <h2 class="choices" onclick="wrongAnswer4a()">A. Check social media updates</h2>
+      <h2 class="choices" onclick="wrongAnswer4b()">B. Organize next month’s files</h2>
+      <h2 class="choices" onclick="rightAnswer4()">C. Prepare tomorrow’s team briefing</h2>
+      <h2 class="choices" onclick="wrongAnswer4c()">D. Read unrelated news articles</h2>
+      <div id="feedback4"></div>
+    </td>
+  </tr>
+</table>  
+      </div>
+    </div>
+  </main>
+<p>&nbsp;</p>		  
+<p>&nbsp;</p>	
+</div>
+</body>
+</html>
