@@ -1,0 +1,799 @@
+{
+  "version": "3.105.35604.0",
+  "course_id": "5yim7K2YAaj",
+  "title": "Capstone Project",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "INTRODUCTION"
+    },
+    {
+      "title": "TYPECAST TUTORIAL"
+    },
+    {
+      "title": "TRYOUT & ISSUES"
+    },
+    {
+      "title": "APPLICATION IN A CLASSROOM"
+    },
+    {
+      "title": "WRAP UP"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5YZdWBtXcy1",
+      "title": "Welcome",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5dd94uzNsod",
+      "title": "Lesson Objectives",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6kLBr9Rh3CC",
+      "title": "What is TTS",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6agpGKyVDjT",
+      "title": "WHY USE TTS IN TEACHING",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6rKcY6CmQYC",
+      "title": "From the teacher's side",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6QqtNo3YIB3",
+      "title": "Research based evidence",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5ZKyASDH6OP",
+      "title": "Research based evidence",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6K6LW6uA6mS",
+      "title": "Research based evidence",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6LEFopaQLy1",
+      "title": "Quick check question",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6U1M0sURQT3",
+      "title": "Typecast overview",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "5h71aiu51Cn",
+      "title": "Quick check question",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "5bvL5lvXm50",
+      "title": "Let's try Typecast.ai",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6JUa4qk7ltU",
+      "title": "Log in",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5uvlMdyxYqD",
+      "title": "Sign up",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5hnl07QBQ2X",
+      "title": "Sign up",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5sNHxwgocnF",
+      "title": "Sign up",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "64KcLE2RkMv",
+      "title": "Sign in link",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6m6HMTbxX4J",
+      "title": "Get started",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "6TLhwQ8XRW5",
+      "title": "New project",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "61VZBNw0iCo",
+      "title": "Name new project",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "62Kc8b2HzaI",
+      "title": "Name new project",
+      "scene_index": "2.10"
+    },
+    {
+      "id": "5dK0SzZXB62",
+      "title": "New new project",
+      "scene_index": "2.11"
+    },
+    {
+      "id": "6GBG8iXvJfz",
+      "title": "Name new project",
+      "scene_index": "2.12"
+    },
+    {
+      "id": "6rTFZnAgGAR",
+      "title": "Voice selection",
+      "scene_index": "2.13"
+    },
+    {
+      "id": "61QDfGjmphk",
+      "title": "Voice selection",
+      "scene_index": "2.14"
+    },
+    {
+      "id": "6qDxOGgvK8z",
+      "title": "Voice category",
+      "scene_index": "2.15"
+    },
+    {
+      "id": "6aQArhAn2Dr",
+      "title": "Voice category",
+      "scene_index": "2.16"
+    },
+    {
+      "id": "6csZlyvNzP2",
+      "title": "Voice category",
+      "scene_index": "2.17"
+    },
+    {
+      "id": "67eybqeIN8w",
+      "title": "Voice category",
+      "scene_index": "2.18"
+    },
+    {
+      "id": "5YZ4poalUw1",
+      "title": "Voice category",
+      "scene_index": "2.19"
+    },
+    {
+      "id": "6d6eNbRdUfO",
+      "title": "Voice category",
+      "scene_index": "2.20"
+    },
+    {
+      "id": "5dCuCUyYOxP",
+      "title": "Voice category",
+      "scene_index": "2.21"
+    },
+    {
+      "id": "6SUMXmK5bmW",
+      "title": "Voice category",
+      "scene_index": "2.22"
+    },
+    {
+      "id": "5gAevL5ZVgo",
+      "title": "Voice category",
+      "scene_index": "2.23"
+    },
+    {
+      "id": "6bfWwHieufN",
+      "title": "Voice category",
+      "scene_index": "2.24"
+    },
+    {
+      "id": "6VgEcUd2tYi",
+      "title": "Voice category",
+      "scene_index": "2.25"
+    },
+    {
+      "id": "5tuj9Z8iDyd",
+      "title": "Voice preview",
+      "scene_index": "2.26"
+    },
+    {
+      "id": "6N9mp6jDgWU",
+      "title": "Voice preview",
+      "scene_index": "2.27"
+    },
+    {
+      "id": "5uGBtkGyClx",
+      "title": "Voice preview",
+      "scene_index": "2.28"
+    },
+    {
+      "id": "5j4Hplx1SCl",
+      "title": "Save favorite voice",
+      "scene_index": "2.29"
+    },
+    {
+      "id": "5c7eocS9JXk",
+      "title": "Save favorite voice",
+      "scene_index": "2.30"
+    },
+    {
+      "id": "6D9OYZmNwsx",
+      "title": "Save favorite voice",
+      "scene_index": "2.31"
+    },
+    {
+      "id": "6ZQXXK7gwKk",
+      "title": "Save favorite voice",
+      "scene_index": "2.32"
+    },
+    {
+      "id": "60MhBTFbJg1",
+      "title": "First line voice",
+      "scene_index": "2.33"
+    },
+    {
+      "id": "60Gw1w7WW8P",
+      "title": "First line voice",
+      "scene_index": "2.34"
+    },
+    {
+      "id": "6TmOJHQfsoE",
+      "title": "First line type",
+      "scene_index": "2.35"
+    },
+    {
+      "id": "5YywKpgTZk0",
+      "title": "Type Good morning. May I see your passport and ticket, please?",
+      "scene_index": "2.36"
+    },
+    {
+      "id": "676sN3pKFs2",
+      "title": "Second line voice",
+      "scene_index": "2.37"
+    },
+    {
+      "id": "6AThZ6H5aww",
+      "title": "Second line voice",
+      "scene_index": "2.38"
+    },
+    {
+      "id": "6n3IZQwbfQD",
+      "title": "Second line voice",
+      "scene_index": "2.39"
+    },
+    {
+      "id": "5XL985vrrGH",
+      "title": "Second line type",
+      "scene_index": "2.40"
+    },
+    {
+      "id": "6Hznob67lSD",
+      "title": "Type Sure, here you go.",
+      "scene_index": "2.41"
+    },
+    {
+      "id": "6SkeZrY0sin",
+      "title": "Third line voice",
+      "scene_index": "2.42"
+    },
+    {
+      "id": "6chslFPqLyi",
+      "title": "Third line voice",
+      "scene_index": "2.43"
+    },
+    {
+      "id": "6U1buI0lcpM",
+      "title": "Type Thank you. Are you checking any bags today?",
+      "scene_index": "2.44"
+    },
+    {
+      "id": "6JTOs2V7ViX",
+      "title": "Third line type",
+      "scene_index": "2.45"
+    },
+    {
+      "id": "6B3GNxoCFcd",
+      "title": "Fourth line voice",
+      "scene_index": "2.46"
+    },
+    {
+      "id": "6rKe4p5oNJK",
+      "title": "Fourth line voice",
+      "scene_index": "2.47"
+    },
+    {
+      "id": "6aDF2CP2pVC",
+      "title": "Fourth line type",
+      "scene_index": "2.48"
+    },
+    {
+      "id": "6B3JkCkKep0",
+      "title": "Type Yes, just one suitcase.",
+      "scene_index": "2.49"
+    },
+    {
+      "id": "6fH1t2aZMeS",
+      "title": "Preview button",
+      "scene_index": "2.50"
+    },
+    {
+      "id": "61sK3q4PIFY",
+      "title": "Preview button",
+      "scene_index": "2.51"
+    },
+    {
+      "id": "5owIPfxPaps",
+      "title": "First line adding pause",
+      "scene_index": "2.52"
+    },
+    {
+      "id": "5iR2qIWRxoP",
+      "title": "Click ",
+      "scene_index": "2.53"
+    },
+    {
+      "id": "5geUcejhM8F",
+      "title": "Click ",
+      "scene_index": "2.54"
+    },
+    {
+      "id": "6jHmyucfQyD",
+      "title": "Click ",
+      "scene_index": "2.55"
+    },
+    {
+      "id": "6WsUu3Uuvlr",
+      "title": "Double-Click ",
+      "scene_index": "2.56"
+    },
+    {
+      "id": "5XE76iOck14",
+      "title": "Double-Click ",
+      "scene_index": "2.57"
+    },
+    {
+      "id": "5eEJBKyLiRn",
+      "title": "Click ",
+      "scene_index": "2.58"
+    },
+    {
+      "id": "6lDleKfHAIE",
+      "title": "Click ",
+      "scene_index": "2.59"
+    },
+    {
+      "id": "5XCXyRXLFJw",
+      "title": "second line adding pause",
+      "scene_index": "2.60"
+    },
+    {
+      "id": "5l9uNFzCSUC",
+      "title": "Click ",
+      "scene_index": "2.61"
+    },
+    {
+      "id": "5i9ROnsPAfk",
+      "title": "Click ",
+      "scene_index": "2.62"
+    },
+    {
+      "id": "610BbFSko4B",
+      "title": "Double-Click ",
+      "scene_index": "2.63"
+    },
+    {
+      "id": "5fdmXLJi6Qa",
+      "title": "Double-Click ",
+      "scene_index": "2.64"
+    },
+    {
+      "id": "69Ykx4T6n0S",
+      "title": "Click ",
+      "scene_index": "2.65"
+    },
+    {
+      "id": "62R5kR8NT84",
+      "title": "Click ",
+      "scene_index": "2.66"
+    },
+    {
+      "id": "5i7Q1L6Z2pp",
+      "title": "Third line adding pause",
+      "scene_index": "2.67"
+    },
+    {
+      "id": "69IAe6pnf4w",
+      "title": "Click ",
+      "scene_index": "2.68"
+    },
+    {
+      "id": "5Yk5yPjjr6n",
+      "title": "Double-Click ",
+      "scene_index": "2.69"
+    },
+    {
+      "id": "6Ac9FaNE9dQ",
+      "title": "Double-Click ",
+      "scene_index": "2.70"
+    },
+    {
+      "id": "6N1iyASGw0G",
+      "title": "Double-Click ",
+      "scene_index": "2.71"
+    },
+    {
+      "id": "6M3K6Lo7AiG",
+      "title": "Click ",
+      "scene_index": "2.72"
+    },
+    {
+      "id": "6UvdTkaCohe",
+      "title": "Preview again after pause",
+      "scene_index": "2.73"
+    },
+    {
+      "id": "6nrTcy7t4nR",
+      "title": "Click ",
+      "scene_index": "2.74"
+    },
+    {
+      "id": "6M74GicZyZA",
+      "title": "Click the Download button",
+      "scene_index": "2.75"
+    },
+    {
+      "id": "6C3JX6uuFHM",
+      "title": "Download setup",
+      "scene_index": "2.76"
+    },
+    {
+      "id": "6KFTwnc0IiV",
+      "title": "Download setup",
+      "scene_index": "2.77"
+    },
+    {
+      "id": "6bqF357MZxp",
+      "title": "Download setup",
+      "scene_index": "2.78"
+    },
+    {
+      "id": "5t53P2D8JZn",
+      "title": "Download setup",
+      "scene_index": "2.79"
+    },
+    {
+      "id": "6gLJzEMWmmF",
+      "title": "Click ",
+      "scene_index": "2.80"
+    },
+    {
+      "id": "5rL92kTDbT9",
+      "title": "Confirm download",
+      "scene_index": "2.81"
+    },
+    {
+      "id": "6c5jhDzw1Fw",
+      "title": "Finish",
+      "scene_index": "2.82"
+    },
+    {
+      "id": "67gNTcSdnXY",
+      "title": "Now it's your turn",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6MCFLcP84yL",
+      "title": "Press Enter",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6h2Y2mAfO3z",
+      "title": "Hints- pressing enter",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6QYSiwYH0Zf",
+      "title": "Choose a voice actor",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "5jplghqoXzD",
+      "title": "Hints- Using filter button",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6CVdHaMA0z3",
+      "title": "Select a voice actor",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "5qGpK7sabsR",
+      "title": "Type the last line script",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "6GihoK5eotS",
+      "title": "Hints- Pronunciation feature",
+      "scene_index": "3.8"
+    },
+    {
+      "id": "5jO97IEt5Uz",
+      "title": "Adding the pause",
+      "scene_index": "3.9"
+    },
+    {
+      "id": "61HnRECEczg",
+      "title": "Click ",
+      "scene_index": "3.10"
+    },
+    {
+      "id": "5iB4AgKZAjj",
+      "title": "Click ",
+      "scene_index": "3.11"
+    },
+    {
+      "id": "5hDBEJmB1lI",
+      "title": "Hints- Adding the pause",
+      "scene_index": "3.12"
+    },
+    {
+      "id": "6A05zjYfTP2",
+      "title": "Preview button",
+      "scene_index": "3.13"
+    },
+    {
+      "id": "5etlLI1m8w2",
+      "title": "Hints- when you preview",
+      "scene_index": "3.14"
+    },
+    {
+      "id": "6LAOTfCkA52",
+      "title": "Download button",
+      "scene_index": "3.15"
+    },
+    {
+      "id": "5ivZEqU1Gp5",
+      "title": "Click confirm button",
+      "scene_index": "3.16"
+    },
+    {
+      "id": "6CJSIOpfR9P",
+      "title": "Click the save button",
+      "scene_index": "3.17"
+    },
+    {
+      "id": "61CqYer7aOj",
+      "title": "Typecast vs Elevenlabs1",
+      "scene_index": "3.18"
+    },
+    {
+      "id": "5zbygjJ8QWt",
+      "title": "Typecast vs Elevenlabs2",
+      "scene_index": "3.19"
+    },
+    {
+      "id": "69qWQ2tI4cz",
+      "title": "Typecast vs Elevenlabs3",
+      "scene_index": "3.20"
+    },
+    {
+      "id": "5o1rZ8abSGi",
+      "title": "COMMON TTS ISSUES",
+      "scene_index": "3.21"
+    },
+    {
+      "id": "6f7yZ5R1Jp8",
+      "title": "Challenge 1/4\n\n\nDrag the FIX IT icon into the best solution box.",
+      "scene_index": "3.22"
+    },
+    {
+      "id": "5yylAvGfyMh",
+      "title": "Challenge 2/4\n\n\nDrag the FIX IT icon into the best solution box.",
+      "scene_index": "3.23"
+    },
+    {
+      "id": "5fs8z2aN5oX",
+      "title": "Challenge 3/4\n\n\nDrag the FIX IT icon into the best solution box.",
+      "scene_index": "3.24"
+    },
+    {
+      "id": "6FviA9mCTja",
+      "title": "Challenge 4/4\n\n\nDrag the FIX IT icon into the best solution box.",
+      "scene_index": "3.25"
+    },
+    {
+      "id": "6iteo2r0dsw",
+      "title": "Using TTS in the Classroom",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5VSiwx2Js7d",
+      "title": "Practical Uses of TTS",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6NK0ldnliSt",
+      "title": "Shadowing",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6G5M7XSEL2G",
+      "title": "Quick Check-Shadowing",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "5cfFOSTfFbG",
+      "title": "Dictation",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "6bxuSCdCU4D",
+      "title": "Quick Check-Dictation",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "6GhRsUAV9wZ",
+      "title": "Quick Check-Roleplay",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "6KtfNXbAYOV",
+      "title": "Role-play",
+      "scene_index": "4.8"
+    },
+    {
+      "id": "6BKEj28m3rb",
+      "title": "Homework Audio",
+      "scene_index": "4.9"
+    },
+    {
+      "id": "63LtCSARmCz",
+      "title": "Quick Check-Homework Audio",
+      "scene_index": "4.10"
+    },
+    {
+      "id": "66JGF0X7Wg3",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "4.11"
+    },
+    {
+      "id": "6mhEQUtxxSM",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "4.12"
+    },
+    {
+      "id": "5huB6OOP0Oj",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "4.13"
+    },
+    {
+      "id": "6mM2yTrOuSX",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "4.14"
+    },
+    {
+      "id": "69O1T3AYh60",
+      "title": "Wrap-up-Practical Uses",
+      "scene_index": "4.15"
+    },
+    {
+      "id": "6UfIvHnSCZ4",
+      "title": "Apply What You’ve Learned: Classroom Scenarios",
+      "scene_index": "4.16"
+    },
+    {
+      "id": "6UNDDuNGLTY",
+      "title": "Scenario Quiz1",
+      "scene_index": "4.17"
+    },
+    {
+      "id": "63waC0yaije",
+      "title": "Scenario Quiz2",
+      "scene_index": "4.18"
+    },
+    {
+      "id": "5gkIpls9hAB",
+      "title": "Scenario Quiz3",
+      "scene_index": "4.19"
+    },
+    {
+      "id": "6TopLWhGroy",
+      "title": "Scenario Quiz4",
+      "scene_index": "4.20"
+    },
+    {
+      "id": "6qjQCXzXvwV",
+      "title": "TTS Limitation Wrap-up",
+      "scene_index": "4.21"
+    },
+    {
+      "id": "6q7qEVzbvnv",
+      "title": "LIMITATION OF TTS",
+      "scene_index": "4.22"
+    },
+    {
+      "id": "60JHRlH5r0J",
+      "title": "Myth or Reality Quiz1",
+      "scene_index": "4.23"
+    },
+    {
+      "id": "6mKvPlwjmdA",
+      "title": "Myth or Reality Quiz2",
+      "scene_index": "4.24"
+    },
+    {
+      "id": "6m71aa7SGyM",
+      "title": "Myth or Reality Quiz3",
+      "scene_index": "4.25"
+    },
+    {
+      "id": "6nqZoYExKmT",
+      "title": "TTS Limitation Wrap-up",
+      "scene_index": "4.26"
+    },
+    {
+      "id": "6Mk6eDLGmec",
+      "title": "Responsible Use of TTS",
+      "scene_index": "4.27"
+    },
+    {
+      "id": "6I5uqxRwdTl",
+      "title": "Responsible Use Quiz 1",
+      "scene_index": "4.28"
+    },
+    {
+      "id": "6MFZTK117yN",
+      "title": "Responsible Use Quiz 2",
+      "scene_index": "4.29"
+    },
+    {
+      "id": "6JQ9YYPtjrB",
+      "title": "Responsible Use Quiz 3",
+      "scene_index": "4.30"
+    },
+    {
+      "id": "5sWNNq3DbGO",
+      "title": "Responsible Use Wrap-up",
+      "scene_index": "4.31"
+    },
+    {
+      "id": "68E24warfky",
+      "title": "PADLET ACTIVITY OPTIONAL",
+      "scene_index": "4.32"
+    },
+    {
+      "id": "5wHMfknxRnd",
+      "title": "Key Takeaways",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "5WAy1sd18PM",
+      "title": "What are your key takeaways?",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "5sLEbQ4jvsy",
+      "title": "Sources",
+      "scene_index": "5.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1584,
+    "height": 772
+  },
+  "stage": {
+    "width": 1324,
+    "height": 678
+  }
+}
